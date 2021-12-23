@@ -1,2 +1,3 @@
 # idiot.c
-An attempt to prove that Albert Einstein was in fact a fool
+<i>"Insanity is doing the same thing over and over again and expecting different results"</i><br>
+\- Albert Einstein
